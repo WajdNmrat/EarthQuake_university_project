@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<XmlMessages>
+    <Earthquake>
+        <ID>11</ID>
+        <date/>
+        <IndicatorPlaceX>11</IndicatorPlaceX>
+        <IndicatorPlacey>312</IndicatorPlacey>
+        <power>32</power>
+        <cities>
+            <city>
+                <cityNumber>123</cityNumber>
+                <CityName>11</CityName>
+                <country>1asd</country>
+                <distanceFromIsrael>1</distanceFromIsrael>
+            </city>
+        </cities>
+    </Earthquake>
+</XmlMessages>
