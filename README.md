@@ -1,1 +1,1 @@
-my partnet course namd abdallah yassin , Building a complete system that helps determine the location of the earthquake and contains several tools to help the user survive, such as reaching the nearest rescue location or calling emergency services, etc.
+Jointly with my partner namd abdallah yassin , Building a complete system that helps determine the location of the earthquake and contains several tools to help the user survive, such as reaching the nearest rescue location or calling emergency services, etc.
